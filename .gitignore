@@ -1,0 +1,6 @@
+env/*
+config.py
+.db
+.sqlite
+.idea
+__pycache__/
